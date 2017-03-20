@@ -1,1 +1,1 @@
-load("/lisp.WORKSPACE", "lisp_repositories")
+workspace(name = "lisp__hello")

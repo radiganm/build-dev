@@ -1,2 +1,2 @@
 load("/lisp.WORKSPACE", "lisp_repositories")
-lisp_repositories(bazelisp="/Users/mac/local/build-dev/bazel/hello-lisp/submodules/bazelisp", sbcl="/usr")
+lisp_repositories("/Users/mac/local/build-dev/bazel/submodules/bazelisp", "/usr")
