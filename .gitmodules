@@ -1,0 +1,3 @@
+[submodule "bazel/submodules/bazelisp"]
+	path = bazel/submodules/bazelisp
+	url = https://github.com/qitab/bazelisp.git

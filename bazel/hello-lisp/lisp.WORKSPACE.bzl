@@ -1,0 +1,1 @@
+../submodules/bazelisp/lisp.WORKSPACE.bzl
