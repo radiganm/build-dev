@@ -13,7 +13,7 @@ bazel = bazel
 default: build
 
 build:
-	JAVA_HOME=$(jdk) $(bazel) build @lisp__hello//:hello
+	$(bazel) build @lisp__hello//:hello
 
 clean:
 	bazel $@ --async
