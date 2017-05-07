@@ -1,5 +1,5 @@
 #!/bin/sh
-## boostrap.sh
+## boostrap.sh (for autotools)
 ## Mac Radigan
 
   autoreconf --install
