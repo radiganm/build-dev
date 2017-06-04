@@ -10,7 +10,7 @@ default: build
 build:
 	stack $@
 
-intstall:
+install:
 	stack $@
 
 clean:
